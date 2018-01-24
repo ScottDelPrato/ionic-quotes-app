@@ -1,6 +1,7 @@
 # ionic-quotes-app
 <h3>USES:</h3>
 <p>cards, modals, ion-grid, ion-list, tabs-nav, theme, alerts, modal-page data transfer, side-menu, alt-background, page-stack</p>
+
 # Screenshots & Flow
 <kbd><img src="screenshots/ionic-quotes-app-1.png" alt="alt text" width=275></kbd>
 <kbd><img src="screenshots/ionic-quotes-app-2.png" alt="alt text" width=275></kbd>
